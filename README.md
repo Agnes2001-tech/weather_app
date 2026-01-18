@@ -1,33 +1,24 @@
-# Weather App (Flutter)
+# Weather App 🌤️
 
-A modern Flutter application that fetches real-time weather data using the OpenWeather API.
+A Flutter weather application using OpenWeather API.
 
 ## Features
-- Search weather by city
-- Real-time temperature
-- Weather condition description
-- Gradient modern UI
-- Error handling
-- Loading animation
+- Search weather by city name
+- Shows temperature, condition, humidity, wind speed
+- Clean UI with gradient background
+- Device Preview for mobile view
 
 ## Tech Stack
 - Flutter
-- REST API (OpenWeather)
+- Dart
 - HTTP package
-
-## API Used
-OpenWeather Current Weather API  
-https://openweathermap.org/current
+- OpenWeather API
 
 ## How to Run
+1. Clone repo
+2. Run `flutter pub get`
+3. Add your OpenWeather API key
+4. Run `flutter run`
 
-1. Clone the project
-2. Run:
-
-flutter pub get  
-flutter run
-
-3. Enter any city name
-
-## Author
-Agnes Andriya
+## Screenshots
+(Add screenshot here)
