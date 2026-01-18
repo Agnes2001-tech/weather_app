@@ -1,6 +1,4 @@
-# Weather App 🌤️
-
-A Flutter weather application using OpenWeather API.
+# Weather App
 
 ## Features
 - Search weather by city name
@@ -13,12 +11,3 @@ A Flutter weather application using OpenWeather API.
 - Dart
 - HTTP package
 - OpenWeather API
-
-## How to Run
-1. Clone repo
-2. Run `flutter pub get`
-3. Add your OpenWeather API key
-4. Run `flutter run`
-
-## Screenshots
-(Add screenshot here)
